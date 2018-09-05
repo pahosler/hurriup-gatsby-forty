@@ -1,0 +1,23 @@
+.donate {
+    position: fixed;
+    top: 300px;
+    right: -2px;
+    z-index: 500;
+}
+
+.donate .btn-donate {
+    background: rgba(0, 0, 0, 0.8);
+    font-size: .6em;
+}
+
+.donate #donate {
+    color: #fff;
+}
+
+.heart {
+  position: relative;
+  top: 3px;
+  color: #f00;
+  font-weight: 600;
+  font-size: 1.5em;
+}
